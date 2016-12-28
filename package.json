@@ -1,0 +1,17 @@
+{
+  "name": "test-dri-helper",
+  "version": "1.0.0",
+  "description": "help test DRI generate playlist and failed case list from trx file.",
+  "main": "TestDRIHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haipeng Wang",
+  "license": "MSFT",
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "js2xmlparser": "1.0.0",
+    "minimist": "1.2.0",
+    "xml2js": "0.4.1"
+  }
+}
